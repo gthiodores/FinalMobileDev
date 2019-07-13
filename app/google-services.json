@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "815079300131",
+    "firebase_url": "https://strong-pursuit-241501.firebaseio.com",
+    "project_id": "strong-pursuit-241501",
+    "storage_bucket": "strong-pursuit-241501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815079300131:android:0573b13bf692b348",
+        "android_client_info": {
+          "package_name": "com.example.android.finalmobiledev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815079300131-md654d1de8mknag0hfs9mpfm1ke1r444.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.finalmobiledev",
+            "certificate_hash": "2a72c2f440137cf8bed0582f1f89cd0c7da75c56"
+          }
+        },
+        {
+          "client_id": "815079300131-uc5tq7nrjqu288vfel3990fgpjnunrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAow_bSQfNaEPkklxZmbYZaQaL13gNnxXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815079300131-uc5tq7nrjqu288vfel3990fgpjnunrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815079300131:android:3ee91d0c352a3936",
+        "android_client_info": {
+          "package_name": "com.example.android.simplechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815079300131-afl6vv9npac949eplnahp6b43ts0ae9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.simplechatapp",
+            "certificate_hash": "2a72c2f440137cf8bed0582f1f89cd0c7da75c56"
+          }
+        },
+        {
+          "client_id": "815079300131-uc5tq7nrjqu288vfel3990fgpjnunrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAow_bSQfNaEPkklxZmbYZaQaL13gNnxXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815079300131-uc5tq7nrjqu288vfel3990fgpjnunrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalMobileDev</string>
+    <string name="login_text">Login</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="login_title">Simple Chat</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
